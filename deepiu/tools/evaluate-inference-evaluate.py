@@ -1,0 +1,1 @@
+/home/gezi/mine/hasky/deepiu/image_caption/evaluate/ai-challenger/evaluate-inference-evaluate.py

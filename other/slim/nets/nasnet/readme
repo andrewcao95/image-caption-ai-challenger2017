@@ -1,0 +1,8 @@
+fix is new code fixing batch norm in non training mode 
+but for existing models using old code training can not use this new code  
+so right now still use old code  
+when training new models might change to use new code  
+also need to check inital image checkpoint is ok  
+
+currently inference will also use batch norming though I fix ramdom seed 
+but if your batch image sequence change you still got different inference result  

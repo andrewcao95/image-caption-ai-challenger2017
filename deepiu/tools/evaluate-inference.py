@@ -1,0 +1,1 @@
+../image_caption/inference/ai-challenger/evaluate-inference.py

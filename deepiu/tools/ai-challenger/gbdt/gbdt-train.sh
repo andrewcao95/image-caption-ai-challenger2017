@@ -1,0 +1,1 @@
+mlt ensemble.train.txt --name 0,1 -group 0  -cl gbrank -wr 1 -excl model,vote --ntree 10 --mil 100 --smooth 0.5 --entropy 0.5 -nbag 10 -nbagfrac 0.8 -nt 10 -c train --mt=1 --mc=1 --codeType py --rs 1024
